@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    {% load static %}
+    <!-- CSS files -->
+    <link href="{% static 'predictive_framework/css/bootstrap.min.css' %}" rel="stylesheet">
+    <link href="{% static 'predictive_framework/css/pf.css' %}" rel="stylesheet">
+
+    <!-- JS files -->
+    <script src="{% static 'predictive_framework/js/jquery-3.1.1.min.js' %}"></script>
+    <script src="{% static 'predictive_framework/js/pf.js' %}"></script>
+    <script src="https://www.gstatic.com/charts/loader.js"></script>
+
+    <!-- initializing pie chart -->
+    <script>
+        google.charts.load('current', {'packages': ['corechart']});
+        google.charts.setOnLoadCallback(drawChart);
+
+        function drawChart() {
+            let data = google.visualization.arrayToDataTable([
+                ['Favorable', 'Predicted approve rate'],
+                ['Favorable', 50],
+                ['Unfavorable', 50]
+            ]);
+
+            let options = {
+                title: 'Favorable Prediction Data',
+                pieHole: 0.4,
+            };
+
+            let chart = new google.visualization.PieChart(document.getElementById('pie_chart'));
+
+            chart.draw(data, options);
+        }
+    </script>
+
+    <title>Predictive Framework for Health Appeal Data</title>
+</head>
+
+<body>
+
+    <!-- navbar -->
+    <div class="container">
+        <nav class="navbar navbar-light bg-light">
+            <a class="navbar-brand" href="{% url 'predict_home' %}">
+                <img src="{% static 'predictive_framework/images/high_mark_logo.svg' %}" width="30" height="30"
+                     class="rounded d-inline-block align-top" alt="">
+                Highmark Data Scientist Group
+            </a>
+        </nav>
+    </div>
+
+    <!-- form area -->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <form id="predict_form">
+                    {% csrf_token %}
+
+                    {% for field in form %}
+                        <div class="row mt-4">
+                            <div class="col-md-9">
+                                {{ field.label }}: {{ field }}
+                            </div>
+                        </div>
+                    {% endfor %}
+
+                    <!-- button control-->
+                    <div class="row mt-4 justify-content-between">
+                        <div class="col col-sm-6">
+                            <button id='reset_predict_button' type="submit" class="btn btn-primary">Reset</button>
+                        </div>
+
+                        <div class="col col-sm-6">
+                            <button id='predict_button' type="submit" class="btn btn-primary">Predict</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+            <!-- prediction area -->
+            <div class="col-md-6">
+                <div id="pie_chart" style="width: 900px; height: 500px;"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    {% load static %}
+    <!-- CSS files -->
+    <link href="{% static 'predictive_framework/css/bootstrap.min.css' %}" rel="stylesheet">
+    <link href="{% static 'predictive_framework/css/pf.css' %}" rel="stylesheet">
+
+    <!-- JS files -->
+    <script src="{% static 'predictive_framework/js/jquery-3.1.1.min.js' %}"></script>
+    <script src="{% static 'predictive_framework/js/pf.js' %}"></script>
+    <script src="https://www.gstatic.com/charts/loader.js"></script>
+
+    <!-- initializing pie chart -->
+    <script>
+        google.charts.load('current', {'packages': ['corechart']});
+        google.charts.setOnLoadCallback(drawChart);
+
+        function drawChart() {
+            let data = google.visualization.arrayToDataTable([
+                ['Favorable', 'Predicted approve rate'],
+                ['Favorable', 50],
+                ['Unfavorable', 50]
+            ]);
+
+            let options = {
+                title: 'Favorable Aggregation Data',
+                pieHole: 0.4,
+            };
+
+            let chart = new google.visualization.PieChart(document.getElementById('pie_chart'));
+
+            chart.draw(data, options);
+        }
+    </script>
+
+    <title>Aggregation Framework for Health Appeal Data</title>
+</head>
+
+<body>
+
+    <!-- navbar -->
+    <div class="container">
+        <nav class="navbar navbar-light bg-light">
+            <a class="navbar-brand" href="{% url 'aggregate_home' %}">
+                <img src="{% static 'predictive_framework/images/high_mark_logo.svg' %}" width="30" height="30"
+                     class="rounded d-inline-block align-top" alt="">
+                Highmark Data Scientist Group
+            </a>
+        </nav>
+    </div>
+
+    <!-- form area -->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <form id="aggregate_form">
+                    {% csrf_token %}
+
+                    <div class="row mt-4">
+                        <div class="col-md-9">
+                            <label for="fiscal_year">Choose a fiscal year:</label>
+                            <select id="fiscal_year">
+                                <option value="">--Please choose an option--</option>
+                                {% for fiscal_year in fiscal_years %}
+                                    <option value="{{ fiscal_year }}">{{ fiscal_year }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row mt-4">
+                        <div class="col-md-9">
+                            <label for="claims">Choose number of claims:</label>
+                            <select id="claims">
+                                <option value="">--Please choose an option--</option>
+                                {% for claim in claims %}
+                                    <option value="{{ claim }}">{{ claim }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row mt-4">
+                        <div class="col-md-9">
+                            <label for="request_type">Choose a request type:</label>
+                            <select id="request_type">
+                                <option value="">--Please choose an option--</option>
+                                {% for request_type in request_types %}
+                                    <option value="{{ request_type }}">{{ request_type }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row mt-4">
+                        <div class="col-md-9">
+                            <label for="appeal_category">Choose an appeal category:</label>
+                            <select id="appeal_category">
+                                <option value="">--Please choose an option--</option>
+                                {% for appeal_category in appeal_categories %}
+                                    <option value="{{ appeal_category }}">{{ appeal_category }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row mt-4">
+                        <div class="col-md-9">
+                            <label for="medicare_part">Choose a medicare part:</label>
+                            <select id="medicare_part">
+                                <option value="">--Please choose an option--</option>
+                                {% for medicare_part in medicare_parts %}
+                                    <option value="{{ medicare_part }}">{{ medicare_part }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row mt-4">
+                        <div class="col-md-9">
+                            <label for="requestor_type">Choose a requestor type:</label>
+                            <select id="requestor_type">
+                                <option value="">--Please choose an option--</option>
+                                {% for requestor_type in requestor_types %}
+                                    <option value="{{ requestor_type }}">{{ requestor_type }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row mt-4">
+                        <div class="col-md-9">
+                            <label for="state">Choose a state:</label>
+                            <select id="state">
+                                <option value="">--Please choose an option--</option>
+                                {% for state in states %}
+                                    <option value="{{ state }}">{{ state }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row mt-4">
+                        <div class="col-md-9">
+                            <label for="otr">Choose an OTR:</label>
+                            <select id="otr">
+                                <option value="">--Please choose an option--</option>
+                                {% for otr in otrs %}
+                                    <option value="{{ otr }}">{{ otr }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row mt-4">
+                        <div class="col-md-9">
+                            <label for="psc_zpic">Choose a PSC/ZPIC:</label>
+                            <select id="psc_zpic">
+                                <option value="">--Please choose an option--</option>
+                                {% for psc_zpic in psc_zpics %}
+                                    <option value="{{ psc_zpic }}">{{ psc_zpic }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row mt-4">
+                        <div class="col-md-9">
+                            <label for="rac">Choose a RAC:</label>
+                            <select id="rac">
+                                <option value="">--Please choose an option--</option>
+                                {% for rac in racs %}
+                                    <option value="{{ rac }}">{{ rac }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row mt-4">
+                        <div class="col-md-9">
+                            <label for="hearing_type">Choose a hearing type:</label>
+                            <select id="hearing_type">
+                                <option value="">--Please choose an option--</option>
+                                {% for hearing_type in hearing_types %}
+                                    <option value="{{ hearing_type }}">{{ hearing_type }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row mt-4">
+                        <div class="col-md-9">
+                            <label for="procedure_code">Choose a procedure code:</label>
+                            <select id="procedure_code">
+                                <option value="">--Please choose an option--</option>
+                                {% for procedure_code in procedure_codes %}
+                                    <option value="{{ procedure_code }}">{{ procedure_code }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+
+                    <!-- button control-->
+                    <div class="row mt-4 justify-content-between">
+                        <div class="col col-sm-6">
+                            <button id='reset_aggregate_button' type="submit" class="btn btn-primary">Reset</button>
+                        </div>
+
+                        <div class="col col-sm-6">
+                            <button id='aggregate_button' type="submit" class="btn btn-primary">Aggregate</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+            <!-- prediction area -->
+            <div class="col-md-6">
+                <div id="pie_chart" style="width: 900px; height: 500px;"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

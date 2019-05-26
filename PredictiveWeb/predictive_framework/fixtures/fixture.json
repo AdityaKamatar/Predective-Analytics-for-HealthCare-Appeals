@@ -1,0 +1,2282 @@
+[
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 1,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Fax",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "TX",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "K0823",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 2,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Fax",
+            "appeal_category": "Practitioner Services",
+            "medicare_part": "Part B of A",
+            "requestor_type": "Provider",
+            "state": "FL",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "85025",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 3,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 5,
+            "request_type": "Fax",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "IN",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "K0823",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 4,
+        "fields": {
+            "fiscal_year": "2009",
+            "claims": 1,
+            "request_type": "Fax",
+            "appeal_category": "Other",
+            "medicare_part": "Part A",
+            "requestor_type": "Provider",
+            "state": "Vi",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "C1300",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 5,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Fax",
+            "appeal_category": "Clinic/Lab/X-Ray",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "CA",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "77080",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 6,
+        "fields": {
+            "fiscal_year": "2005",
+            "claims": 1,
+            "request_type": "Fax",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "PA",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "E1226",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 7,
+        "fields": {
+            "fiscal_year": "2007",
+            "claims": 1,
+            "request_type": "Fax",
+            "appeal_category": "Transportation",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "CA",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "A0428",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 8,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Fax",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "TN",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "A4256",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 9,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 2,
+            "request_type": "Fax",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "MS",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "A7032",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 10,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Fax",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "TX",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "K0823",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 11,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 4,
+            "request_type": "Fax",
+            "appeal_category": "Other",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "FL",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "E1390",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 12,
+        "fields": {
+            "fiscal_year": "2007",
+            "claims": 1,
+            "request_type": "Fax",
+            "appeal_category": "Other",
+            "medicare_part": "Part A",
+            "requestor_type": "Provider",
+            "state": "PA",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "G0332",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 13,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 4,
+            "request_type": "Fax",
+            "appeal_category": "Medical Supplies",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "AL",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "E1390",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 14,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Fax",
+            "appeal_category": "AC Dismissal",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "OR",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "A0427",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 15,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Fax",
+            "appeal_category": "Outpatient Therapies",
+            "medicare_part": "Part B of A",
+            "requestor_type": "Other",
+            "state": "WA",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "97112",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 16,
+        "fields": {
+            "fiscal_year": "2005",
+            "claims": 1,
+            "request_type": "Fax",
+            "appeal_category": "Nursing Home",
+            "medicare_part": "Part A",
+            "requestor_type": "Provider",
+            "state": "AR",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 17,
+        "fields": {
+            "fiscal_year": "2007",
+            "claims": 1,
+            "request_type": "Fax",
+            "appeal_category": "Transportation",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "TX",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "A0428",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 18,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 3,
+            "request_type": "Fax",
+            "appeal_category": "Home Health/Hospice",
+            "medicare_part": "Part A",
+            "requestor_type": "Appointed Rep",
+            "state": "NY",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "G0154",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 19,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Fax",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "FL",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "A4235",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 20,
+        "fields": {
+            "fiscal_year": "2006",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Outpatient Therapies",
+            "medicare_part": "Part B of A",
+            "requestor_type": "Provider",
+            "state": "FL",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "97110",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 21,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Medical Supplies",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "FL",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "A5120",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 22,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 2,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Appointed Rep",
+            "state": "TX",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "E2365",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 23,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "QIC Dismissal",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "SC",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "J2505",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 24,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 3,
+            "request_type": "Mail",
+            "appeal_category": "Home Health/Hospice",
+            "medicare_part": "Part A",
+            "requestor_type": "Appointed Rep",
+            "state": "MA",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "G0154",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 25,
+        "fields": {
+            "fiscal_year": "2009",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "CA",
+            "otr": "No",
+            "psc_zpic": "Yes",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "E2363",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 26,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 2,
+            "request_type": "Mail",
+            "appeal_category": "Home Health/Hospice",
+            "medicare_part": "Part A",
+            "requestor_type": "State Medicaid Agency",
+            "state": "MA",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "G0156",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 27,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "FL",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "E2601",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 28,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 2,
+            "request_type": "Mail",
+            "appeal_category": "Home Health/Hospice",
+            "medicare_part": "Part A",
+            "requestor_type": "State Medicaid Agency",
+            "state": "NY",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "G0154",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 29,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Clinic/Lab/X-Ray",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "MN",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "R0075",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 30,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "MA",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "A4253",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 31,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "TN",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "A4259",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 32,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 3,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "MT",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "A6550",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 33,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 4,
+            "request_type": "Mail",
+            "appeal_category": "Home Health/Hospice",
+            "medicare_part": "Part A",
+            "requestor_type": "Provider",
+            "state": "MA",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "G0154",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 34,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "GA",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "E0431",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 35,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Medical Supplies",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "FL",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "E0601",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 36,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 20,
+            "request_type": "Mail",
+            "appeal_category": "Transportation",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "NJ",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "A0428",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 37,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Medical Supplies",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "AR",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "A6234",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 38,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 2,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "CA",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "K0001",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 39,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 3,
+            "request_type": "Mail",
+            "appeal_category": "Home Health/Hospice",
+            "medicare_part": "Part A",
+            "requestor_type": "State Medicaid Agency",
+            "state": "MA",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "G0154",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 40,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "QIC Dismissal",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "FL",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "A4256",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 41,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "NJ",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "A4258",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 42,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Clinic/Lab/X-Ray",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "MN",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "Q0092",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 43,
+        "fields": {
+            "fiscal_year": "2007",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "FL",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "E0990",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 44,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Home Health/Hospice",
+            "medicare_part": "Part A",
+            "requestor_type": "Appointed Rep",
+            "state": "MA",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "3AFK1",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 45,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 3,
+            "request_type": "Mail",
+            "appeal_category": "Medical Supplies",
+            "medicare_part": "Part B",
+            "requestor_type": "Beneficiary",
+            "state": "NY",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "J7608",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 46,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 60,
+            "request_type": "Mail",
+            "appeal_category": "Clinic/Lab/X-Ray",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "CA",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "73140",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 47,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 2,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "TX",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "A7033",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 48,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Transportation",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "TX",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "A0428",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 49,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Transportation",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "TX",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "A0425",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 50,
+        "fields": {
+            "fiscal_year": "2006",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Attorney",
+            "state": "FL",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 51,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "FL",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "A4253",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 52,
+        "fields": {
+            "fiscal_year": "2007",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Practitioner Services",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "NY",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "E1390",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 53,
+        "fields": {
+            "fiscal_year": "2008",
+            "claims": 19,
+            "request_type": "Mail",
+            "appeal_category": "Transportation",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "CA",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "A0428",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 54,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "FL",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "A4259",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 55,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "FL",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "K0823",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 56,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "TN",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "A4256",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 57,
+        "fields": {
+            "fiscal_year": "2006",
+            "claims": 3,
+            "request_type": "Mail",
+            "appeal_category": "Nursing Home",
+            "medicare_part": "Part A",
+            "requestor_type": "Provider",
+            "state": "PA",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 58,
+        "fields": {
+            "fiscal_year": "2006",
+            "claims": 2,
+            "request_type": "Mail",
+            "appeal_category": "Clinic/Lab/X-Ray",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "FL",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "87340",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 59,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "TN",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "A4259",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 60,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "FL",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "A4259",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 61,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Outpatient Therapies",
+            "medicare_part": "Part B of A",
+            "requestor_type": "Provider",
+            "state": "TX",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "G0008",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 62,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "VA",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "E1390",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 63,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Prosthetics/Orthotics",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "OH",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "L5620",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 64,
+        "fields": {
+            "fiscal_year": "2008",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Home Health/Hospice",
+            "medicare_part": "Part A",
+            "requestor_type": "Provider",
+            "state": "MI",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "G0151",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 65,
+        "fields": {
+            "fiscal_year": "2006",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Acute Hospital",
+            "medicare_part": "Part A",
+            "requestor_type": "Provider",
+            "state": "LA",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 66,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Home Health/Hospice",
+            "medicare_part": "Part A",
+            "requestor_type": "Appointed Rep",
+            "state": "FL",
+            "otr": "No",
+            "psc_zpic": "Yes",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "G0156",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 67,
+        "fields": {
+            "fiscal_year": "2009",
+            "claims": 2,
+            "request_type": "Mail",
+            "appeal_category": "Acute Hospital",
+            "medicare_part": "Part A",
+            "requestor_type": "Provider",
+            "state": "CA",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "Yes",
+            "hearing_type": "Hearing",
+            "procedure_code": "97001",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 68,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Nursing Home",
+            "medicare_part": "Part C",
+            "requestor_type": "Beneficiary",
+            "state": "FL",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "99309",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 69,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Appointed Rep",
+            "state": "TN",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "A4258",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 70,
+        "fields": {
+            "fiscal_year": "2007",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Dental",
+            "medicare_part": "Part A",
+            "requestor_type": "Prescribing Physician",
+            "state": "AZ",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "41874",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 71,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 2,
+            "request_type": "Mail",
+            "appeal_category": "Medical Supplies",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "UT",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "E1390",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 72,
+        "fields": {
+            "fiscal_year": "2008",
+            "claims": 24,
+            "request_type": "Mail",
+            "appeal_category": "Practitioner Services",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "FL",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "92541",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 73,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Practitioner Services",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "NY",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "26770",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 74,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "TN",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "A4259",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 75,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 4,
+            "request_type": "Mail",
+            "appeal_category": "Home Health/Hospice",
+            "medicare_part": "Part A",
+            "requestor_type": "State Medicaid Agency",
+            "state": "NY",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "G0154",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 76,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "MN",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "E0669",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 77,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 3,
+            "request_type": "Mail",
+            "appeal_category": "Acute Hospital",
+            "medicare_part": "Part A",
+            "requestor_type": "Appointed Rep",
+            "state": "NY",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "G0156",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 78,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Home Health/Hospice",
+            "medicare_part": "Part A",
+            "requestor_type": "Provider",
+            "state": "MA",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "G0151",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 79,
+        "fields": {
+            "fiscal_year": "2008",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "QIC Dismissal",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "NY",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 80,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "FL",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "A4259",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 81,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Other",
+            "medicare_part": "Part B",
+            "requestor_type": "Other",
+            "state": "TX",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "K0195",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 82,
+        "fields": {
+            "fiscal_year": "2007",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Transportation",
+            "medicare_part": "Part B",
+            "requestor_type": "Family",
+            "state": "CO",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "A0428",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 83,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Transportation",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "TX",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "A0429",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 84,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 4,
+            "request_type": "Mail",
+            "appeal_category": "Home Health/Hospice",
+            "medicare_part": "Part A",
+            "requestor_type": "Provider",
+            "state": "MA",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "3AFK1",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 85,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 34,
+            "request_type": "Mail",
+            "appeal_category": "Transportation",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "TX",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "A0428",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 86,
+        "fields": {
+            "fiscal_year": "2007",
+            "claims": 6,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "TX",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "E0978",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 87,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Medical Supplies",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "AR",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "A6212",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 88,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 2,
+            "request_type": "Mail",
+            "appeal_category": "Medical Supplies",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "FL",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "E0431",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 89,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 3,
+            "request_type": "Mail",
+            "appeal_category": "Home Health/Hospice",
+            "medicare_part": "Part A",
+            "requestor_type": "State Medicaid Agency",
+            "state": "NY",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "G0155",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 90,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Home Health/Hospice",
+            "medicare_part": "Part A",
+            "requestor_type": "State Medicaid Agency",
+            "state": "MA",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "G0156",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 91,
+        "fields": {
+            "fiscal_year": "2006",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "PA",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "K0093",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 92,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 11,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "CA",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "A6210",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 93,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "NC",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "K0108",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 94,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 5,
+            "request_type": "Mail",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "TX",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "K0823",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 95,
+        "fields": {
+            "fiscal_year": "2006",
+            "claims": 2,
+            "request_type": "Mail",
+            "appeal_category": "Practitioner Services",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "TX",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "J0585",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 96,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 3,
+            "request_type": "Mail",
+            "appeal_category": "Home Health/Hospice",
+            "medicare_part": "Part A",
+            "requestor_type": "State Medicaid Agency",
+            "state": "NY",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "3BHK1",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 97,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Home Health/Hospice",
+            "medicare_part": "Part A",
+            "requestor_type": "State Medicaid Agency",
+            "state": "MA",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "3AFK1",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 98,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 26,
+            "request_type": "Mail",
+            "appeal_category": "Medical Supplies",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "AR",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "A6248",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 99,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Mail",
+            "appeal_category": "Clinic/Lab/X-Ray",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "MN",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "R0075",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 100,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Phone Call",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "AR",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "A6446",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 101,
+        "fields": {
+            "fiscal_year": "2009",
+            "claims": 1,
+            "request_type": "Phone Call",
+            "appeal_category": "Outpatient Therapies",
+            "medicare_part": "Part A",
+            "requestor_type": "Provider",
+            "state": "AR",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "97530",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 102,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 3,
+            "request_type": "Phone Call",
+            "appeal_category": "Home Health/Hospice",
+            "medicare_part": "Part A",
+            "requestor_type": "State Medicaid Agency",
+            "state": "MA",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "G0154",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 103,
+        "fields": {
+            "fiscal_year": "2009",
+            "claims": 1,
+            "request_type": "Phone Call",
+            "appeal_category": "Transportation",
+            "medicare_part": "Part B",
+            "requestor_type": "Beneficiary",
+            "state": "VA",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "A0428",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 104,
+        "fields": {
+            "fiscal_year": "2006",
+            "claims": 1,
+            "request_type": "Phone Call",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "FL",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 105,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Phone Call",
+            "appeal_category": "Practitioner Services",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "FL",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "10140",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 106,
+        "fields": {
+            "fiscal_year": "2005",
+            "claims": 1,
+            "request_type": "Phone Call",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "PA",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "K0031",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 107,
+        "fields": {
+            "fiscal_year": "2006",
+            "claims": 1,
+            "request_type": "Phone Call",
+            "appeal_category": "Unspecified",
+            "medicare_part": "Part A",
+            "requestor_type": "Provider",
+            "state": "MT",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "G0152",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 108,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Phone Call",
+            "appeal_category": "Home Health/Hospice",
+            "medicare_part": "Part A",
+            "requestor_type": "Appointed Rep",
+            "state": "NY",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "G0154",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 109,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Phone Call",
+            "appeal_category": "Medical Supplies",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "FL",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "A7034",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 110,
+        "fields": {
+            "fiscal_year": "2007",
+            "claims": 1,
+            "request_type": "Phone Call",
+            "appeal_category": "Transportation",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "IL",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "A0434",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 111,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Phone Call",
+            "appeal_category": "Other",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "TX",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "77301",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 112,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Phone Call",
+            "appeal_category": "Outpatient Therapies",
+            "medicare_part": "Part B of A",
+            "requestor_type": "Provider",
+            "state": "TX",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "97530",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 113,
+        "fields": {
+            "fiscal_year": "2007",
+            "claims": 1,
+            "request_type": "Phone Call",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "TX",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "E0149",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 114,
+        "fields": {
+            "fiscal_year": "2008",
+            "claims": 1,
+            "request_type": "Phone Call",
+            "appeal_category": "Transportation",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "CA",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "A0428",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 115,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 2,
+            "request_type": "Phone Call",
+            "appeal_category": "Medical Supplies",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "MS",
+            "otr": "Yes",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "E1390",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 116,
+        "fields": {
+            "fiscal_year": "2007",
+            "claims": 1,
+            "request_type": "Phone Call",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "OH",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "E0651",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 117,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Phone Call",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "PA",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "E0651",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 118,
+        "fields": {
+            "fiscal_year": "2009",
+            "claims": 1,
+            "request_type": "Phone Call",
+            "appeal_category": "Acute Hospital",
+            "medicare_part": "Part A",
+            "requestor_type": "Provider",
+            "state": "NY",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "Yes",
+            "hearing_type": "Hearing",
+            "procedure_code": "",
+            "disposition": "0"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 119,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Phone Call",
+            "appeal_category": "Medical Supplies",
+            "medicare_part": "Part B",
+            "requestor_type": "Appointed Rep",
+            "state": "MO",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "Hearing",
+            "procedure_code": "J7626",
+            "disposition": "1"
+        }
+    },
+    {
+        "model": "predictive_framework.aggregatecase",
+        "pk": 120,
+        "fields": {
+            "fiscal_year": "2013",
+            "claims": 1,
+            "request_type": "Phone Call",
+            "appeal_category": "DME",
+            "medicare_part": "Part B",
+            "requestor_type": "Provider",
+            "state": "WY",
+            "otr": "No",
+            "psc_zpic": "No",
+            "rac": "No",
+            "hearing_type": "No Hearing",
+            "procedure_code": "E1390",
+            "disposition": "0"
+        }
+    }
+]

@@ -1,0 +1,121 @@
+Fiscal Year,Claims,Request Type,Appeal Category,Medicare Part,Requestor Type,State,OTR,PSC/ZPIC,RAC,Hearing Type,Procedure Code,Disposition
+2013,1,Fax,DME,Part B,Provider,TX,No,No,No,No Hearing,K0823,0
+2013,1,Fax,Practitioner Services,Part B of A,Provider,FL,No,No,No,No Hearing,85025,0
+2013,5,Fax,DME,Part B,Provider,IN,Yes,No,No,No Hearing,K0823,1
+2009,1,Fax,Other,Part A,Provider,Vi,Yes,No,No,No Hearing,C1300,0
+2013,1,Fax,Clinic/Lab/X-Ray,Part B,Provider,CA,No,No,No,Hearing,77080,1
+2005,1,Fax,DME,Part B,Provider,PA,No,No,No,Hearing,E1226,0
+2007,1,Fax,Transportation,Part B,Provider,CA,Yes,No,No,No Hearing,A0428,0
+2013,1,Fax,DME,Part B,Provider,TN,No,No,No,Hearing,A4256,0
+2013,2,Fax,DME,Part B,Provider,MS,Yes,No,No,No Hearing,A7032,0
+2013,1,Fax,DME,Part B,Provider,TX,No,No,No,No Hearing,K0823,0
+2013,4,Fax,Other,Part B,Provider,FL,No,No,No,Hearing,E1390,0
+2007,1,Fax,Other,Part A,Provider,PA,Yes,No,No,No Hearing,G0332,0
+2013,4,Fax,Medical Supplies,Part B,Provider,AL,No,No,No,Hearing,E1390,1
+2013,1,Fax,AC Dismissal,Part B,Provider,OR,No,No,No,Hearing,A0427,0
+2013,1,Fax,Outpatient Therapies,Part B of A,Other,WA,No,No,No,Hearing,97112,0
+2005,1,Fax,Nursing Home,Part A,Provider,AR,No,No,No,Hearing,,1
+2007,1,Fax,Transportation,Part B,Provider,TX,Yes,No,No,Hearing,A0428,0
+2013,3,Fax,Home Health/Hospice,Part A,Appointed Rep,NY,No,No,No,Hearing,G0154,1
+2013,1,Fax,DME,Part B,Provider,FL,Yes,No,No,No Hearing,A4235,0
+2006,1,Mail,Outpatient Therapies,Part B of A,Provider,FL,No,No,No,Hearing,97110,1
+2013,1,Mail,Medical Supplies,Part B,Provider,FL,No,No,No,Hearing,A5120,1
+2013,2,Mail,DME,Part B,Appointed Rep,TX,No,No,No,No Hearing,E2365,0
+2013,1,Mail,QIC Dismissal,Part B,Provider,SC,No,No,No,No Hearing,J2505,0
+2013,3,Mail,Home Health/Hospice,Part A,Appointed Rep,MA,No,No,No,No Hearing,G0154,0
+2009,1,Mail,DME,Part B,Provider,CA,No,Yes,No,Hearing,E2363,1
+2013,2,Mail,Home Health/Hospice,Part A,State Medicaid Agency,MA,No,No,No,Hearing,G0156,1
+2013,1,Mail,DME,Part B,Provider,FL,No,No,No,Hearing,E2601,1
+2013,2,Mail,Home Health/Hospice,Part A,State Medicaid Agency,NY,No,No,No,Hearing,G0154,1
+2013,1,Mail,Clinic/Lab/X-Ray,Part B,Provider,MN,No,No,No,No Hearing,R0075,0
+2013,1,Mail,DME,Part B,Provider,MA,No,No,No,Hearing,A4253,0
+2013,1,Mail,DME,Part B,Provider,TN,Yes,No,No,No Hearing,A4259,0
+2013,3,Mail,DME,Part B,Provider,MT,Yes,No,No,No Hearing,A6550,0
+2013,4,Mail,Home Health/Hospice,Part A,Provider,MA,No,No,No,Hearing,G0154,1
+2013,1,Mail,DME,Part B,Provider,GA,Yes,No,No,No Hearing,E0431,1
+2013,1,Mail,Medical Supplies,Part B,Provider,FL,No,No,No,No Hearing,E0601,0
+2013,20,Mail,Transportation,Part B,Provider,NJ,No,No,No,No Hearing,A0428,0
+2013,1,Mail,Medical Supplies,Part B,Provider,AR,No,No,No,Hearing,A6234,0
+2013,2,Mail,DME,Part B,Provider,CA,Yes,No,No,No Hearing,K0001,0
+2013,3,Mail,Home Health/Hospice,Part A,State Medicaid Agency,MA,Yes,No,No,No Hearing,G0154,0
+2013,1,Mail,QIC Dismissal,Part B,Provider,FL,No,No,No,No Hearing,A4256,0
+2013,1,Mail,DME,Part B,Provider,NJ,No,No,No,Hearing,A4258,1
+2013,1,Mail,Clinic/Lab/X-Ray,Part B,Provider,MN,No,No,No,No Hearing,Q0092,0
+2007,1,Mail,DME,Part B,Provider,FL,No,No,No,Hearing,E0990,0
+2013,1,Mail,Home Health/Hospice,Part A,Appointed Rep,MA,No,No,No,Hearing,3AFK1,1
+2013,3,Mail,Medical Supplies,Part B,Beneficiary,NY,No,No,No,Hearing,J7608,1
+2013,60,Mail,Clinic/Lab/X-Ray,Part B,Provider,CA,No,No,No,Hearing,73140,0
+2013,2,Mail,DME,Part B,Provider,TX,Yes,No,No,No Hearing,A7033,1
+2013,1,Mail,Transportation,Part B,Provider,TX,Yes,No,No,No Hearing,A0428,0
+2013,1,Mail,Transportation,Part B,Provider,TX,No,No,No,Hearing,A0425,0
+2006,1,Mail,DME,Part B,Attorney,FL,No,No,No,No Hearing,,0
+2013,1,Mail,DME,Part B,Provider,FL,Yes,No,No,No Hearing,A4253,0
+2007,1,Mail,Practitioner Services,Part B,Provider,NY,No,No,No,Hearing,E1390,0
+2008,19,Mail,Transportation,Part B,Provider,CA,No,No,No,Hearing,A0428,1
+2013,1,Mail,DME,Part B,Provider,FL,No,No,No,Hearing,A4259,0
+2013,1,Mail,DME,Part B,Provider,FL,No,No,No,Hearing,K0823,1
+2013,1,Mail,DME,Part B,Provider,TN,Yes,No,No,No Hearing,A4256,0
+2006,3,Mail,Nursing Home,Part A,Provider,PA,No,No,No,Hearing,,1
+2006,2,Mail,Clinic/Lab/X-Ray,Part B,Provider,FL,No,No,No,No Hearing,87340,0
+2013,1,Mail,DME,Part B,Provider,TN,No,No,No,No Hearing,A4259,0
+2013,1,Mail,DME,Part B,Provider,FL,No,No,No,No Hearing,A4259,0
+2013,1,Mail,Outpatient Therapies,Part B of A,Provider,TX,No,No,No,Hearing,G0008,0
+2013,1,Mail,DME,Part B,Provider,VA,Yes,No,No,No Hearing,E1390,0
+2013,1,Mail,Prosthetics/Orthotics,Part B,Provider,OH,No,No,No,No Hearing,L5620,0
+2008,1,Mail,Home Health/Hospice,Part A,Provider,MI,No,No,No,Hearing,G0151,0
+2006,1,Mail,Acute Hospital,Part A,Provider,LA,No,No,No,Hearing,,0
+2013,1,Mail,Home Health/Hospice,Part A,Appointed Rep,FL,No,Yes,No,Hearing,G0156,0
+2009,2,Mail,Acute Hospital,Part A,Provider,CA,No,No,Yes,Hearing,97001,1
+2013,1,Mail,Nursing Home,Part C,Beneficiary,FL,No,No,No,No Hearing,99309,0
+2013,1,Mail,DME,Part B,Appointed Rep,TN,No,No,No,No Hearing,A4258,0
+2007,1,Mail,Dental,Part A,Prescribing Physician,AZ,No,No,No,Hearing,41874,0
+2013,2,Mail,Medical Supplies,Part B,Provider,UT,No,No,No,Hearing,E1390,1
+2008,24,Mail,Practitioner Services,Part B,Provider,FL,No,No,No,Hearing,92541,0
+2013,1,Mail,Practitioner Services,Part B,Provider,NY,No,No,No,Hearing,26770,0
+2013,1,Mail,DME,Part B,Provider,TN,Yes,No,No,No Hearing,A4259,1
+2013,4,Mail,Home Health/Hospice,Part A,State Medicaid Agency,NY,No,No,No,Hearing,G0154,0
+2013,1,Mail,DME,Part B,Provider,MN,No,No,No,Hearing,E0669,0
+2013,3,Mail,Acute Hospital,Part A,Appointed Rep,NY,No,No,No,Hearing,G0156,0
+2013,1,Mail,Home Health/Hospice,Part A,Provider,MA,Yes,No,No,No Hearing,G0151,0
+2008,1,Mail,QIC Dismissal,Part B,Provider,NY,No,No,No,No Hearing,,0
+2013,1,Mail,DME,Part B,Provider,FL,Yes,No,No,No Hearing,A4259,0
+2013,1,Mail,Other,Part B,Other,TX,Yes,No,No,No Hearing,K0195,0
+2007,1,Mail,Transportation,Part B,Family,CO,No,No,No,No Hearing,A0428,0
+2013,1,Mail,Transportation,Part B,Provider,TX,No,No,No,Hearing,A0429,0
+2013,4,Mail,Home Health/Hospice,Part A,Provider,MA,No,No,No,No Hearing,3AFK1,0
+2013,34,Mail,Transportation,Part B,Provider,TX,No,No,No,Hearing,A0428,0
+2007,6,Mail,DME,Part B,Provider,TX,Yes,No,No,No Hearing,E0978,0
+2013,1,Mail,Medical Supplies,Part B,Provider,AR,No,No,No,Hearing,A6212,0
+2013,2,Mail,Medical Supplies,Part B,Provider,FL,No,No,No,No Hearing,E0431,0
+2013,3,Mail,Home Health/Hospice,Part A,State Medicaid Agency,NY,No,No,No,No Hearing,G0155,0
+2013,1,Mail,Home Health/Hospice,Part A,State Medicaid Agency,MA,Yes,No,No,No Hearing,G0156,1
+2006,1,Mail,DME,Part B,Provider,PA,Yes,No,No,No Hearing,K0093,0
+2013,11,Mail,DME,Part B,Provider,CA,No,No,No,No Hearing,A6210,0
+2013,1,Mail,DME,Part B,Provider,NC,No,No,No,Hearing,K0108,0
+2013,5,Mail,DME,Part B,Provider,TX,No,No,No,No Hearing,K0823,0
+2006,2,Mail,Practitioner Services,Part B,Provider,TX,Yes,No,No,No Hearing,J0585,0
+2013,3,Mail,Home Health/Hospice,Part A,State Medicaid Agency,NY,No,No,No,Hearing,3BHK1,1
+2013,1,Mail,Home Health/Hospice,Part A,State Medicaid Agency,MA,No,No,No,No Hearing,3AFK1,0
+2013,26,Mail,Medical Supplies,Part B,Provider,AR,No,No,No,Hearing,A6248,0
+2013,1,Mail,Clinic/Lab/X-Ray,Part B,Provider,MN,No,No,No,Hearing,R0075,1
+2013,1,Phone Call,DME,Part B,Provider,AR,No,No,No,Hearing,A6446,1
+2009,1,Phone Call,Outpatient Therapies,Part A,Provider,AR,No,No,No,Hearing,97530,0
+2013,3,Phone Call,Home Health/Hospice,Part A,State Medicaid Agency,MA,No,No,No,Hearing,G0154,1
+2009,1,Phone Call,Transportation,Part B,Beneficiary,VA,Yes,No,No,No Hearing,A0428,0
+2006,1,Phone Call,DME,Part B,Provider,FL,No,No,No,No Hearing,,0
+2013,1,Phone Call,Practitioner Services,Part B,Provider,FL,No,No,No,No Hearing,10140,0
+2005,1,Phone Call,DME,Part B,Provider,PA,No,No,No,Hearing,K0031,0
+2006,1,Phone Call,Unspecified,Part A,Provider,MT,No,No,No,Hearing,G0152,0
+2013,1,Phone Call,Home Health/Hospice,Part A,Appointed Rep,NY,No,No,No,No Hearing,G0154,0
+2013,1,Phone Call,Medical Supplies,Part B,Provider,FL,No,No,No,Hearing,A7034,1
+2007,1,Phone Call,Transportation,Part B,Provider,IL,Yes,No,No,No Hearing,A0434,0
+2013,1,Phone Call,Other,Part B,Provider,TX,Yes,No,No,No Hearing,77301,1
+2013,1,Phone Call,Outpatient Therapies,Part B of A,Provider,TX,Yes,No,No,No Hearing,97530,0
+2007,1,Phone Call,DME,Part B,Provider,TX,No,No,No,Hearing,E0149,0
+2008,1,Phone Call,Transportation,Part B,Provider,CA,No,No,No,Hearing,A0428,1
+2013,2,Phone Call,Medical Supplies,Part B,Provider,MS,Yes,No,No,No Hearing,E1390,0
+2007,1,Phone Call,DME,Part B,Provider,OH,No,No,No,Hearing,E0651,0
+2013,1,Phone Call,DME,Part B,Provider,PA,No,No,No,Hearing,E0651,1
+2009,1,Phone Call,Acute Hospital,Part A,Provider,NY,No,No,Yes,Hearing,,0
+2013,1,Phone Call,Medical Supplies,Part B,Appointed Rep,MO,No,No,No,Hearing,J7626,1
+2013,1,Phone Call,DME,Part B,Provider,WY,No,No,No,No Hearing,E1390,0

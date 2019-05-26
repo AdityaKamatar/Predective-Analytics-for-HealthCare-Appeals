@@ -19,7 +19,7 @@ Our capstone tries to solve two of the above issues, Faster claims process and i
 The dataset for this project was open source and was available from the Office of Medicare Hearings and Appeals (OMHA). We built exploratory data analysis web tool to identify the underlying data through the united states. We built multiple machine learning models and finally settled on the best performing model for the available dataset. With that knowledge we built another web tool and combines our machine learning model with predictive tool to give an easy access to use the models which we built.
 
 ## Installation
-* Step 1
+### Step 1
 - Python
 Linux:
 ```sh
@@ -40,7 +40,7 @@ Install Python 3
 brew install python3
 ```
 
-* Step 2
+### Step 2
 Install anaconda for all in one installation.
 - [Anaconda](https://www.anaconda.com/distribution/)
 
@@ -69,7 +69,7 @@ Jyupter NoteBook
 ```sh
 python3 -m pip install jupyter
 ```
-* Step 3
+### Step 3
 - Django
 ```sh
 pip install Django

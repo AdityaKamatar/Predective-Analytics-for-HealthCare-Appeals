@@ -104,13 +104,13 @@ Run the PredictiveWeb django project.
 
 You can contribute to this opensoure project by contacting
 
-* [Suman Giri](Suman.Giri@highmark.com) - Highmark Health
-* [Melih Ozbek](Melih.Ozbek@highmark.com) - Highmark Health
-* [Aditya Kamatar](adityakamatar@gmail.com) - Carnegie Mellon University
-* [Jie Lou](jlou1@andrew.cmu.edu) - Carnegie Mellon University
-* [Juwen Zhang](juwenz@andrew.cmu.edu) - Carnegie Mellon University
-* [Shekhar Tanwar](stanwar@andrew.cmu.edu) - Carnegie Mellon University
-* [Donald Taylor](dtaylor@scivelo.pitt.edu) - Univeristy of Pittsburgh
+* [Suman Giri](mailto:Suman.Giri@highmark.com) - Highmark Health
+* [Melih Ozbek](mailto:Melih.Ozbek@highmark.com) - Highmark Health
+* [Aditya Kamatar](mailto:adityakamatar@gmail.com) - Carnegie Mellon University
+* [Jie Lou](mailto:jlou1@andrew.cmu.edu) - Carnegie Mellon University
+* [Juwen Zhang](mailto:juwenz@andrew.cmu.edu) - Carnegie Mellon University
+* [Shekhar Tanwar](mailto:stanwar@andrew.cmu.edu) - Carnegie Mellon University
+* [Donald Taylor](mailto:dtaylor@scivelo.pitt.edu) - Univeristy of Pittsburgh
 
 
 ## License
